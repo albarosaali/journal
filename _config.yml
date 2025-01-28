@@ -13,5 +13,4 @@ description: >
   Somewhere to keep track of life's events as they go by!
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
