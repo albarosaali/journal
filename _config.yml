@@ -1,5 +1,5 @@
 # set jekyll theme
-remote-theme: minima
+remote_theme: minima
 
 # copied config settings from minima
 title: Ali's Journal
