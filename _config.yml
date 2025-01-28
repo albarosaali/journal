@@ -1,5 +1,3 @@
-jekyll new-theme
-
 # set jekyll theme
 remote_theme: jekyll/minima
 
