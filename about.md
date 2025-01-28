@@ -1,2 +1,7 @@
-# new journal header 
-testing markdown
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+Ali's Internet journal using minima!
