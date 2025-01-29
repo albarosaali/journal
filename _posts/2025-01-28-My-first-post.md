@@ -7,3 +7,4 @@ author:
 ---
 
 Hello everyone!!
+This is a test to see in the git client works!
