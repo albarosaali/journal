@@ -6,4 +6,4 @@ permalink: /about/
 
 Ali's Internet journal using minima!
 
-![MassiveTomato](\assets\images\MassiveTomato.jpg)
+![MassiveTomato]({{site.url}}\assets\images\MassiveTomato.jpg)
