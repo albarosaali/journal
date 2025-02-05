@@ -6,4 +6,4 @@ permalink: /about/
 
 Ali's Internet journal using minima!
 
-![MassiveTomato]({{site.url}}\assets\images\MassiveTomato.jpg)
+<img src="{{site.base_url}}{% link /assets/images/MassiveTomato.jpg %}" style="width:400px"><br>
