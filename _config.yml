@@ -6,6 +6,9 @@ title: Ali's Journal
 author:
   name: Ali Albarosa
   email: alialbarosa@gmail.com
+  
+base_url: /journal
+repository: albarosaali/journal
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -15,3 +18,12 @@ description: >
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+ 
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - Minima_readme.md
