@@ -14,3 +14,4 @@ We returned, once again, to the Fed for dinner. This time accompanied by Lizzie 
 
 A 'dad joke' card from Maddy capped a splendid day.
 
+<img src="{{site.base_url}}{% link /assets/images/2025-02-14-MaddyCoffee.jpg %}" style="width:400px"><br>
