@@ -12,4 +12,4 @@ In the afternoon, the sun mobilised its hottest rays, and so, a beach was found.
 
 Starting at Bruce Pullman Motorhome park for another night. Noodles with tofu, pad choi, kimchi and spring onion for dinner.
 
-<img src="{{site.base_url}}{% link /assets/images/2025-02-18-Foto.jpg %}" style="width:400px"><br>
+<img src="{{site.base_url}}{% link /assets/images/2025-02-18-Foto.JPG %}" style="width:400px"><br>

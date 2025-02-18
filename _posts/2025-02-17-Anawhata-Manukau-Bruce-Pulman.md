@@ -12,6 +12,6 @@ spectacular passion fruit ice cream was enjoyed not a small amount by yours trul
 
 We now find ourselves staying in Bruce Pulman Motorhome Park: an enormous car park by a pond and otherwise surrounded by playing fields. Shakshuka tonight. 
 
-<img src="{{site.base_url}}{% link /assets/images/2025-02-17-Anawhata-Beach.jpg %}" style="width:400px"><br>
+<img src="{{site.base_url}}{% link /assets/images/2025-02-17-Anawhata-Beach.JPG %}" style="width:400px"><br>
 
-<img src="{{site.base_url}}{% link /assets/images/2025-02-17-Bruce-Pulman.jpg %}" style="width:400px"><br>
+<img src="{{site.base_url}}{% link /assets/images/2025-02-17-Bruce-Pulman.JPG %}" style="width:400px"><br>
