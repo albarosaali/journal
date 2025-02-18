@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Vanadmin and Beach"
+title: "More Vanadmin and Beach"
 categories: misc
 author:
 - Ali Albarosa
