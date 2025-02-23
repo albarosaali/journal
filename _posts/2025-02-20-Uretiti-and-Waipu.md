@@ -14,4 +14,4 @@ The heavens opened mid pasta cooking. An early night.
 
 <img src="{{site.base_url}}{% link /assets/images/2025-02-20-Uretiti.jpg %}" style="width:400px"><br>
 
-<img src="{{site.base_url}}{% link /assets/images/2025-02-20-McLeods.jpg %}" style="width:400px"><br>
+<img src="{{site.base_url}}{% link /assets/images/2025-02-20-McLeod.jpg %}" style="width:400px"><br>
