@@ -7,7 +7,7 @@ author:
 ---
 
 This morning consisted of a beach run, oats, and some frantic packing for campsite check out. Following a
-short post run at Waipu we set off for Whangarei. We made one stop at Ruakaka, on the recommendation of our mechanic, where we took in some great views of Bream Bay and stocked up on water. 
+short post-office run at Waipu we set off for Whangarei. We made one stop at Ruakaka, on the recommendation of our mechanic, where we took in some great views of Bream Bay and stocked up on water. 
 
 The info centre at Whangarei suggested we visit the Hundertwasser museum. It was good! He has a very distinctive style and some fantastic architectural ideas - the museum itself was certainly something! A very friendly lady offered to take some photos of
 us too.
