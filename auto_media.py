@@ -47,7 +47,7 @@ def add_media(filepath, matching_tuple):
                                 "Your browser does not support video tag." + "\n" + 
                                 "</video> \n")
                         if "-l" in media:
-                            file.write("\n" + "<video width=\"660\" height=\"371\" controls=\"controls\">" + "\n" +
+                            file.write("\n" + "<video width=\"330\" height=\"185\" controls=\"controls\">" + "\n" +
                                 "<source src=\"{{site.base_url}}{% link /assets/videos/" +media+ " %}\" type=\"video/mp4\">" + "\n" +
                                 "Your browser does not support video tag." + "\n" + 
                                 "</video> \n")
