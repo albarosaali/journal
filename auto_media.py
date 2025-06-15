@@ -42,18 +42,18 @@ def add_media(filepath, matching_tuple):
                         file.write("\n" + "<img src=\"{{site.base_url}}{% link /assets/images/" +media+ " %}\" style=\"width:330px\"><br> \n")                
                     elif "mov" in media:
                         if "-p" in media:
-                            file.write("\n" + "<video autoplay muted playsinline width=\"270\" height=\"480\ preload=\"metadata\" controls=\"controls\">" + "\n" +
-                                "<source src=\"{{site.base_url}}{% link /assets/videos/" +media+ " %}\" type=\"video/mp4\">" + "\n" +
+                            file.write("\n" + "<video width=\"270\" height=\"480\ preload=\"metadata\" controls=\"controls\" playsinline>" + "\n" +
+                                "<source src=\"/journal/assets/videos/" +media+ "#t=0.01\" type=\"video/mp4\">" + "\n" +
                                 "Your browser does not support video tag." + "\n" + 
                                 "</video> \n")
                         if "-l" in media:
-                            file.write("\n" + "<video autoplay muted playsinline width=\"660\" height=\"371\" preload=\"metadata\" controls=\"controls\">" + "\n" +
-                                "<source src=\"{{site.base_url}}{% link /assets/videos/" +media+ " %}\" type=\"video/mp4\">" + "\n" +
+                            file.write("\n" + "<video width=\"330\" height=\"185\" preload=\"metadata\" controls=\"controls\" playsinline>" + "\n" +
+                                "<source src=\"/journal/assets/videos/" +media+ "#t=0.01\" type=\"video/mp4\">" + "\n" +
                                 "Your browser does not support video tag." + "\n" + 
                                 "</video> \n")
                                 
                 file.close()
-            
+        
 """ Run Script """
 cwd = str(Path.cwd())
 img_pairs = find_partially_matching_files(cwd + "/assets/images", cwd + "/_posts")
