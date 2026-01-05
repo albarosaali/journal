@@ -8,4 +8,6 @@
 layout: home
 ---
 
-Hellooooouuumiiii
+Hellooooouuumiiii.
+NEW WEBSITE, VISIT:
+https://blog.albarosaali.uk
